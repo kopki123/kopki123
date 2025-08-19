@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Kopki</h1>
+<h1 align="left">Hi 👋</h1>
 
 📫 Contact me: **kopki684@gmail.com**
 
@@ -49,6 +49,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopki123&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopki123&layout=compact)
 
 ---

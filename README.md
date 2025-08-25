@@ -8,7 +8,7 @@
 
 - [🌤 Weather Dashboard](https://github.com/kopki123/weather-dashboard) — 天氣查詢工具
 - [🧵 Seamly](https://github.com/kopki123/seamly) — 模擬服飾電商網站
-- [🎮 Tetris Battle](https://github.com/kopki123/tetris-battle) — 方塊遊戲對戰
+- [🎮 Tetris Battle](https://github.com/kopki123/tetris-battle) — 俄羅斯方塊對戰遊戲
 
 ---
 

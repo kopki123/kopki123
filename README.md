@@ -54,6 +54,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopki123&layout=compact)
+![Top Langs](https://github-readme-stats-ten-eta-13.vercel.app/api/top-langs/?username=kopki123&layout=compact)
 
 ---

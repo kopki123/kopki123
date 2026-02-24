@@ -7,7 +7,7 @@
 ## 🚀 Projects
 
 - [💼 Portfolio](https://github.com/kopki123/portfolio) — 個人 Portfolio 網站
-- [📊 Admin Prime](https://github.com/kopki123/admin-prime) — 多角色帳號管理系統 Demo
+- [📊 Admin Prime](https://github.com/kopki123/admin-prime) — 後台管理系統模板 Demo
 - [🌤 Weather Dashboard](https://github.com/kopki123/weather-dashboard) — 天氣查詢工具
 - [🎮 Tetris Battle](https://github.com/kopki123/tetris-battle) — 俄羅斯方塊對戰遊戲
 - [🧵 Seamly](https://github.com/kopki123/seamly) — 模擬服飾電商網站

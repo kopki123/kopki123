@@ -6,6 +6,7 @@
 
 ## 🚀 Projects
 
+- [💿 Album Explorer](https://github.com/kopki123/Album-Explorer) - 專輯探索平台
 - [💼 Portfolio](https://github.com/kopki123/portfolio) — 個人 Portfolio 網站
 - [📊 Admin Prime](https://github.com/kopki123/admin-prime) — 後台管理系統模板 Demo
 - [🌤 Weather Dashboard](https://github.com/kopki123/weather-dashboard) — 天氣查詢工具
